@@ -1,3 +1,4 @@
 # snake
 
-[![demo](https://youtu.be/YZAyppwumo4)](https://youtu.be/YZAyppwumo4 "demo")
+[![Watch the video](https://img.youtube.com/vi/YZAyppwumo4/maxresdefault.jpg)](https://youtu.be/YZAyppwumo4)
+
